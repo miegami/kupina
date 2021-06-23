@@ -1,0 +1,12 @@
+﻿  Kupyna.cpp
+C:\Users\miegami\Desktop\Kupyna\Kupyna\Kupyna.cpp(23,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\miegami\Desktop\Kupyna\Kupyna\Kupyna.cpp(40,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\miegami\Desktop\Kupyna\Kupyna\Kupyna.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\miegami\Desktop\Kupyna\Kupyna\Kupyna.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\miegami\Desktop\Kupyna\Kupyna\Kupyna.cpp(112,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\miegami\Desktop\Kupyna\Kupyna\Kupyna.cpp(180,26): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\miegami\Desktop\Kupyna\Kupyna\Kupyna.cpp(199,36): warning C4018: '<=': signed/unsigned mismatch
+  main.cpp
+C:\Users\miegami\Desktop\Kupyna\Kupyna\main.cpp(135,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Kupyna.vcxproj -> C:\Users\miegami\Desktop\Kupyna\x64\Debug\Kupyna.exe
