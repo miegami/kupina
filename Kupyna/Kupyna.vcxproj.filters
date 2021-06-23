@@ -18,9 +18,6 @@
     <ClInclude Include="Kupyna.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Kalyna.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Kupyna.cpp">

@@ -139,7 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Kalyna.h" />
     <ClInclude Include="Kupyna.h" />
   </ItemGroup>
   <ItemGroup>
